@@ -1,6 +1,6 @@
 # Process for GitHub Assignment Creation
 
-## Login to your GitHub via https://github.com/
+## Login to your GitHub via [https://github.com/](https://github.com/)
 
 ### I Create New Organization
 1. Click on the + at the upper-right corner of your page and choose a new organization.
@@ -14,7 +14,7 @@
 4. Copy the two statements under "…or push an existing repository from the command line" to the notepad.
 5. Goto settings tab and enable template repository.
 
-## Access GitHub classroom via https://classroom.github.com/classrooms
+## Access GitHub classroom via [https://classroom.github.com/classrooms](https://classroom.github.com/classrooms)
 
 ### III Classroom creation
 
