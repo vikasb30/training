@@ -52,7 +52,7 @@
 7. Click on create assignment.
 8. Share the assignment link with the students.
 
-**For more information on assignment, setup watch below video**
+**For more information on assignment, setup watch below video**  
 [Video Link](https://youtu.be/rTsfBAV7sOo)
 
 
